@@ -1,2 +1,3 @@
 # al-majid
 This website is for Al Majid. And it is my first website.
+Bu loyha mening birinchi loyham. Bu juda ham ajoyib edi. Chunki verstka qilishni deyarli bilmas edim, yani amaliyotim yo'q edi. HTML , CSS , JSda ishlashni to'liq bilmas edim...
